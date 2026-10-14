@@ -1,0 +1,7 @@
+﻿modality,path,label
+image,evaluation/image/real/real_01.jpg,real
+image,evaluation/image/fake/fake_01.jpg,fake
+video,evaluation/video/real/real_01.mp4,real
+video,evaluation/video/fake/fake_01.mp4,fake
+audio,evaluation/audio/real/real_01.wav,real
+audio,evaluation/audio/fake/fake_01.wav,fake
